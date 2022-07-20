@@ -18,7 +18,7 @@ jobs:
         run: poetry install
 
       - name: Format code (isort)
-        run: poetry run isort -c -df .
+        run: poetry run isort -c --df .
 
       - name: Format code (black)
         run: poetry run black --check --color --diff .
