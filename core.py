@@ -3,19 +3,11 @@ username = "sada"
 
 format = "asdada"
 
-a = 5
-
-test = "merge asdasdada"
+a = "not merged"
 
 
 def add(x: int, y: int) -> int:
     return x + y
-
-
-
-
-
-
 
 
 def how_it_works():
