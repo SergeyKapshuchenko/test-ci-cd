@@ -1,8 +1,10 @@
 import json
 import os
 
-pwd = "pwd"
-username = "username"
+pwd = 'sadad'
+username =     'sada'
+
+
 
 
 format = "asdada"
@@ -18,4 +20,4 @@ def how_it_works():
     return 1
 
 
-alo = ""
+
