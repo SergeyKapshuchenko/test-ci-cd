@@ -3,10 +3,7 @@ username = "sada"
 
 format = "asdada"
 
-a = 'not merged'
-
-
-
+a = "not merged"
 
 
 def add(x: int, y: int) -> int:
