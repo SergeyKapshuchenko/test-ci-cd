@@ -1,15 +1,5 @@
-import os
-import json
-
-
-
-import pathlib
-
-pwd = 'sadad'
-username =     'sada'
-
-
-
+pwd = "sadad"
+username = "sada"
 
 format = "asdada"
 
@@ -22,6 +12,3 @@ def add(x: int, y: int) -> int:
 
 def how_it_works():
     return 1
-
-
-
