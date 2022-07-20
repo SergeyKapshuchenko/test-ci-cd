@@ -1,5 +1,6 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+coverage_html/
 *.py[cod]
 *$py.class
 
@@ -127,3 +128,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Pycharm
+.idea
+.vscode
+.DS_Store
+static
+documentation/site
+templates/ws.html
+
+celerybeat-schedule.db
+
+# env
+backend/.env.*
