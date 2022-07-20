@@ -40,3 +40,6 @@ jobs:
 
       - name: Format code (black)
         run: poetry run black --check --color --diff .
+
+      - name: Run tests
+        run: poetry run pytest .
