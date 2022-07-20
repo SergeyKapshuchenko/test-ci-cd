@@ -5,6 +5,8 @@ format = "asdada"
 
 a = 5
 
+test = "merge"
+
 
 def add(x: int, y: int) -> int:
     return x + y
